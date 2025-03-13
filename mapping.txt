@@ -1,0 +1,1197 @@
+Methodology 
+ 
+Process  
+ 
+Mapping structure 
+
+Preamble .................................................................................................................... 4 
+Reference to right to regulate (e.g. regulatory autonomy, policy space, flexibility to 
+introduce new regulations)  ................................ ................................ ................................ .... 4 
+Reference to sustainable development  ................................ ................................ .................  4 
+Reference to social investment aspects (e.g. human rights, labour, health, CSR, poverty reduction)  ................................ ................................ ................................ ...............................  4
+
+Reference to environmental aspects (e.g. plant or animal life, biodiversity, climate change) ................................ ................................ ................................ ................................ ...............  4
+ 
+Scope and Definitions .............................................................................................. 5 
+Definition of investment  ................................ ................................ ................................ .........  5 
+Definition of investor  ................................ ................................ ................................ ..............  6 
+Denial of benefits (DoB)  ................................ ................................ ................................ ........  7 
+Substantive scope of the treaty  ................................ ................................ .............................  7 
+Temporal scope of the treaty  ................................ ................................ ................................ . 8 
+Standards of Treatment  ............................................................................................ 8 
+National treatment (NT)  ................................ ................................ ................................ .........  8 
+Most -favoured -nation (MFN) treatment  ................................ ................................ .................  9 
+Fair and equitable treatment (FET)  ................................ ................................ .....................  10 
+Full protection and security  ................................ ................................ ................................ .. 11 
+Prohibition on unreasonable, arbitrary or discriminatory measures  ................................ .... 11 
+Expropriation  ................................ ................................ ................................ ........................  12 
+Protection from strife  ................................ ................................ ................................ ...........  13 
+Transfer of funds ................................ ................................ ................................ ..................  13 
+Prohibition of performance requirements (PRs)  ................................ ................................ .. 14 
+Umbrella clause  ................................ ................................ ................................ ...................  15 
+Entry and sojourn of personnel (subject to local laws)  ................................ ........................  15 
+Senior management (nationality)  ................................ ................................ .........................  15 
+Other Clauses .......................................................................................................... 15 
+Transparency  ................................ ................................ ................................ .......................  15 
+Health and envir onment (any mentioning in the text, except preamble)  .............................  16 
+Labour standards (any mentioning in the text, except preamble)  ................................ ....... 16  
+Page 3 of 25 
+ Right to regulate (any mentioning in the text of this or similar concepts, except preamble)  16 
+Corporate social responsibility (any mentioning in the text, except preamble)  ...................  16 
+Corruption (any mentioning in the text, except preamble)  ................................ ..................  16 
+Not lowering of standa rds (typically environment and/or labour standards)  .......................  16 
+Subrogation clause  ................................ ................................ ................................ ..............  16 
+Non-derogation clause (in case of IIA’s conflict with other norms, more favourable rules 
+apply to investors) ................................ ................................ ................................ ................  16 
+Investment promotion  ................................ ................................ ................................ ..........  17 
+Exceptions ............................................................................................................... 17 
+Essential security exception ................................ ................................ ................................  17 
+General public policy exceptions  ................................ ................................ .........................  18 
+Prudential carve -out (concerns financial measures)  ................................ ...........................  18 
+Scheduling and reservations (in treaty texts and annexes)  ................................ ................  18 
+State -State Dispute Settlement (SSDS)  .................................................................  19 
+SSDS included  ................................ ................................ ................................ .....................  19 
+Investor -State Dispute Settlement (ISDS)  ............................................................. 19 
+ISDS included  ................................ ................................ ................................ ......................  19 
+Alternatives to arbitration  ................................ ................................ ................................ ..... 19 
+Scope and consent  ................................ ................................ ................................ ..............  20 
+Forums  ................................ ................................ ................................ ................................ . 21 
+Other specific ISDS features  ................................ ................................ ...............................  22 
+Institutional Issues .................................................................................................. 23 
+Mechanis m for consultations between State parties  ................................ ...........................  23 
+Institutional framework (committee)  ................................ ................................ .....................  24 
+Technical cooperation/capacity building  ................................ ................................ ..............  24 
+Treaty Duration, Amendment and Termination .................................................... 24 
+Treaty duration  ................................ ................................ ................................ .....................  24 
+Automatic renewal  ................................ ................................ ................................ ...............  24 
+Amendment and termination  ................................ ................................ ...............................  24 
+ 
+   
+Page 4 of 25 
+ Mapping description  
+ 
+This description provides a brief explanation of the mapping options available under 
+each mapped element. (The full version of the “Mapping Guide” is available to 
+participating universities .) 
+ 
+In addition to the mapping options specific to eac h mapped element, all mapped 
+elements have the following two options available (for convenience, they are set out 
+here and not mentioned further): 
+ 
+• Inconclusive – marked “Inconclusive” if the relevant part of the treaty is not 
+clear, and the persons mapping the treaty  were  unable assign any of the 
+mapping options to it.  
+• Not applicable – marked “Not applicable” if an element cannot be mapped 
+because the element is not present in the treaty (e.g. a particular feature of the denial of benefits clause cannot be mapped if the treaty does not include 
+a denial of benefits clause at all).  
+Preamble 
+ 
+Reference to right to 
+regulate (e.g. regulatory 
+autonomy, policy space, 
+flexibility to introduce new 
+regulations)  
+Mapping options:  Yes/No  Marked “Yes” if the preamble con tains a reference to host 
+State’ s regulatory prerogatives, such as “right to regulate”, 
+“regulatory autonomy”, “policy space”, “right to introduce 
+new regulations”, “flexibility to safeguard public welfare” and similar statements. 
+ 
+Reference to sustainable 
+development  
+Mapping options:  Yes/No  Marked “Yes” if the preamble contains a reference to the 
+concept of sustainable development. 
+ 
+Reference to social 
+investment aspects (e.g. 
+human rights, labour, 
+health, CSR, poverty 
+reduction)  
+Mapping options:  Yes/No  Marked “Yes” if the preamble contains a reference to any 
+social investment aspects such as poverty reduction, 
+millennium development goals, human rights, labour 
+rights/standards, public health, corporate social 
+responsibility, or other similar concepts.   
+ 
+Reference to 
+environmental aspects 
+(e.g. plant or animal life, 
+biodiversity, climate 
+change)  
+Mapping options:  Yes/No  Marked “Yes” if the preamble contains a reference to any 
+environmental investment aspects or related concepts 
+such as plant life or animal life, biodiversity, climate 
+change or others. 
+ 
+   
+Page 5 of 25 
+ Scope and Definitions 
+ 
+Definition of investment  
+ 
+Type of definition  
+Mapping options:   
+ Asset -based definition  Marked “Asset -based definition” if the treaty covers “every 
+kind of asset” or “any kind of asset”, accompanied by an 
+open-ended (illustrative) list of assets covered. Such lists usually include five categories of assets: first, movable and immovable property and any related property rights such as mortgages, liens or pledges; second, various types of 
+interests in companies, such as shares, stock, bonds, 
+debentures or any other form of participation in a company, business enterprise or joint venture; third, claims to money and claims under a contract having a financial value and loans directly related to a specific investment; fourth, intellectual property rights; and fifth, 
+business concessions, that is rights conferred by law or 
+under contracts.   
+ Enterprise -based 
+definition  Marked “Enterprise -based definition” if it includes an 
+“enterprise” as one type of asset covered. The enterprise-
+based definition also often lists other enterprise- related 
+assets (e.g. an equity security of an enterprise, a debt security of an enterprise, a loan to an enterprise, etc.) and other types of asset (unrelated to an enterprise). The list of 
+assets listed may be open -ended or closed.   
+ No definition  Marked “No definition” if the treaty does not define the 
+term “investment”.  
+ 
+Limitations to the 
+definition of investment   
+Excludes portfolio 
+investment  
+Mapping options: Yes/No Marked “Yes” if the treaty excludes “portfolio” investment, 
+i.e. passive holdings of securities such as foreign stocks, bonds, or other financial assets, none of which entail  
+active management or control of the securities ’ issuer by 
+the investor. In relation to a company, this is usually to mean that the investor holds less than 10% of company shares. A treaty may exclude portfolio investment 
+indirectly, e.g. if it expressly covers foreign direct  
+investment only.   
+Excludes other specific 
+assets (e.g. sovereign debt, 
+ordinary commercial transactions, etc.)  
+Mapping options: Yes/No Mapped “Yes” if the treaty excludes certain specified 
+assets from the investment definition. Such assets may include, for example: 
+• claims t o money that arise from commercial 
+contracts for the sale of goods or services,  
+• the extension of credit in connection with a commercial transaction, such as trade financing,  
+• sovereign debt obligations (public debt securities), 
+• certain kinds of loans and debt securities (e.g. debts securities with maturity of less that X years, debt securities of a State enterprise, etc.)   
+• other specified types of assets.   
+Page 6 of 25 
+ Lists required characteristics 
+of investment 
+Mapping options: Yes/No Marked “Yes” if the treaty sets out certain characteristics 
+that an asset/transaction must meet to be considered an investment covered by the treaty. These characteristics 
+often include a contribution of money or other resources, an expectation of profit, and the assumption of ri sk. Other 
+characteristics (e.g. a certain duration, contribution to the 
+host State’s development) may also be listed.  
+ 
+Contains “in accordance 
+with host State laws ” 
+requirement Mapping options: Yes/No Marked “Yes” if the treaty specifies that an investment 
+must be made in accordance with domestic/local/national 
+laws of the host State.  
+ 
+Note: A separate provision that contains the Contracting 
+States’ obligation to admit investments "in accordance with their laws and regulations" is not marked "Yes" under this 
+section as such provisions impose an obligation on the contracting parties and do not set forth a compliance 
+requirement for investors.    
+Sets out closed (exhaustive) 
+list of covered assets  
+Mapping options: Yes/No Marked “Yes” if the treaty contains an exhaustive, or 
+closed, list of investments covered.  
+ 
+Marked “No” if the treaty contains an open-ended, or 
+illustrative, list of investments covered. The enumeration is often introduced by a phrase “shall include, in particular, 
+though not exclusively .…". 
+ Definition of investor  
+ 
+Definition included  
+Mapping options: Yes/No Marked “Yes” if the treaty defines the term “investor” or 
+terms such as “nationals/natural persons" and 
+“companies”.  
+  
+Specifying natural 
+persons covered 
+  
+Includes permanent 
+residents  
+Mapping options: Yes/No Marked “Yes” if – in addition to nationals/citizens of the 
+home State – the definition of investor covers permanent 
+residents of the home State or those who have a “right of abode” (or other similar rights) in the home State.  
+ 
+Excludes dual nationals  
+Mapping options: Yes/No Marked “Yes” if the treaty excludes holders of more than 
+one nationality  from its scope. Such a clause may be 
+found in three places: (1) definition of investor, (2) denial of benefits clause and (3) provisions on investor -State 
+dispute settlement.  
+ 
+Treaties that  apply the test of “dominant and effective 
+nationality” to dual nationals are marked as “No”.  
+ 
+Specifying legal entities 
+covered 
+   
+Page 7 of 25 
+ Includes requirement of 
+substantial business activity  
+Mapping options: Yes/No  Marked “Yes” if the treaty covers only entities that engage 
+in substantial business activities in the home State, or use 
+similar terms (e.g. real economic activity).  
+Defines ownership and 
+control of legal entities  
+Mapping options:  Yes/No  Marked “Yes” if the treaty defines the terms “ownership” 
+and/or “control” of an enterprise (or another type of entity).  
+ 
+Denial of benefits (DoB) 
+ 
+DoB clause included  
+Mapping options: Yes/No Marked “Yes” if the treaty includes a denial of benefits  
+clause, i.e. a provision that allows a contracting party to 
+deny treaty protection to an otherwise covered investment. 
+ 
+Content of the DoB clause  
+  
+“Substantive business 
+operations ” criterion  
+Mapping options: Yes/No Marked “Yes” if the DoB clause denies treaty benefits to 
+investors who do not exercise substantive business 
+operations in the territory of the contracting party whose nationality the investor is claiming.  
+ 
+Applies to investors from 
+States with no diplomatic relations or under economic/trade restrictions  
+Mapping options: Yes/No 
+ Marked “Yes” if the DoB  clause denies treaty benefits to 
+investors from third States, with which the host country of investment controlled by these investors does not maintain diplomatic relations or in relation to which the host country 
+maintains economic/trade restrictions (e.g. sanctions).  
+Discretionary ( “Party may 
+deny ”) or mandatory 
+(“benefits shall be denied”) 
+Mapping options:   
+ Unilaterally discretionary  Marked “Unilaterally discretionary” if the DoB clause 
+allows each contracting party to decide on their own 
+whether the benefit should be granted or denied.  
+ Jointly discretionary  Marked “Jointly discretionary” if the DoB clause requires 
+agreement between all contracting parties to deny treaty 
+benefits.   
+ Mandatory  Marked  “Mandatory” if the DoB clause stipulates that 
+“benefits shall be denied”. 
+ 
+Substantive scope of the treaty 
+ 
+Limiting substantive 
+scope of the treaty 
+  
+Excludes taxation  
+Mapping options: Yes/No Marked “Yes” if the treaty excludes taxation matters from 
+the scope of the agreement as a whole or the majority of its provisions. If taxation exclusions are limited to most -
+favoured-nation treatment (MFN), they are mapped under 
+the MFN provision only (  see MFN ).  
+Excludes subsidies, grants  
+Mapping options: Yes/No Marked “Yes” if the treaty excludes subsidies and grants 
+(including inter alia government-supported loans, 
+guarantees and insurance) from the scope of the 
+agreement as a whole or from certain provisions such as 
+MFN and national t reatment  (NT).   
+Page 8 of 25 
+ Excludes government 
+procurement 
+Mapping options: Yes/No Marked “Yes” if the treaty exclu des procurement by  a 
+contracting party and/or by its State enterprise from the scope of the agreement as a whole or from certain 
+provisions such as MFN and NT . 
+ 
+Excludes other subject 
+matter  
+Mapping options: Yes/No Marked “Yes” if the treaty excludes any other subject 
+areas from the scope of the treaty as a whole, e.g. 
+investments in cultural industries, services supplied in the 
+exercise of governmental authority, etc.  
+ 
+Temporal scope of the treaty 
+ 
+Investments covered  
+Mapping options:   
+ Applies to post -BIT 
+investments only  Marked “Applies to post -BIT investments only” if the treaty 
+applies only to those investments that have been made 
+after the treaty’s entry into force.   
+ Applies to both pre -
+existing and post-BIT 
+investments  Marked “Applies to both pre -existing and post -BIT 
+investments” if the treaty applies to investments made before or after the entry into force of the treaty.  
+ 
+ Not stipulated  Marked “Not stipulated” if the treaty is silent on whether i t 
+covers  pre- or post-BIT investments.  
+ 
+Disputes covered  
+Mapping options:   
+ Carves out pre -existing 
+disputes  Marked “Carves out pre -existing disputes” if the treaty 
+precludes  claims arising out of disputes and/or measures 
+that occurred before the entry into force of the agreement 
+(various formulations can be used).   
+ Not stipulated  Marked “Not stipulated” if the treaty is silent on the range 
+of disputes covered.  
+ 
+Standards of Treatment  
+ 
+National treatment (NT)  
+ 
+Type of NT clause  
+Mapping options:   
+ Post-establishment  Marked “Post -establishment” if the NT obligation is limited 
+to the post-establishment phase of the investment, i.e. the 
+obligation does not extend to acquisition and/or 
+establishment of investments. If a treaty contains best-
+efforts (non- binding) NT commitments regarding the pre-
+establishment phase, this is being disregarded and the NT 
+obligation is marked as “Post-establishment”.  
+Page 9 of 25 
+  Pre- and post -
+establishment  Marked “Pre - and post -establishment” if the NT obligation 
+applies to the full life cycle of an investment, including the 
+investor’s entry and establishment in the host country and 
+its participation in existing enterprises (“establish ment, 
+acquisition and expansion” of investments). The obligation 
+also covers the post-establishment phase, i.e. the treatment of the investment after its entry.
+ 
+ Pre-establishment only  Marked “Pre -establishment only” if the NT obligation 
+applies at the pre -establishment phase of investment, and 
+does not apply at the post-establishment phase.  
+ None   
+ 
+Reference to “like 
+circumstances”  (or 
+similar)  
+Mapping options:  Yes/No  Marked “Yes” if the NT obligation prohibits discrimination 
+of investors/investments that are “in like circumstances ” 
+(other similar language may be used). 
+  
+ 
+Most -favoured-nation (MFN) treatment  
+ 
+Type of MFN clause  
+Mapping options   
+ Post-establishment  Marked “Post -establishment” if the MFN obligation is 
+limited to the post-establishment phase of the investment, 
+i.e. the obligation does not extend to acquisition and/or 
+establishment of investments. If a treaty contains best-
+efforts (non -binding) MFN commitments regarding the pre-
+establishment phase, this is being disregarded and the MFN obligation is marked as “Post-establishment”.
+ 
+ Pre- and post -
+establishment  Marked “Pre - and post -establishment” if the MFN 
+obligation applies to the full life cycle of an investment, including the investor’s entry and establishment in the host 
+country and its participation in existing enterprises 
+(“establishment, acquisition and expansion” of 
+investments). The obligation also covers the post-
+establishme nt phase, i.e. the treatment of the investment 
+after its entry.  
+ Pre-establishment only  Marked “Pre -establishment only” if the MFN obligation 
+applies at the pre-establishment phase of investment, and 
+does not apply at the post-establishment phase.  
+ None   
+ 
+Exceptions from MFN 
+obligation 
+  
+Economic integration 
+agreements  
+Mapping options: Yes/No Marked “Yes” if the MFN obligation does not cover 
+advantages accorded to third country investors by virtue of 
+economic integration agreements of various kinds, such as 
+a customs union, economic union, monetary union, free 
+trade agreement, r egional integration agreement, etc.   
+Page 10 of 25 
+ Taxation treaties  
+Mapping options: Yes/No  Marked “Yes” if the MFN obligation does not cover 
+advantages accorded by either contracting party to 
+investors of a third State by virtue of a double taxation 
+agreement or other agreements on a reciprocal basis regarding tax matters. 
+ 
+If a treaty excludes taxation matters from the entire agreement, this is mapped in the section on “Substantive 
+scope of the treaty”. Such treaties are marked “No” in the 
+“Exceptions from MFN” s ection.   
+Procedural issues (ISDS)  
+Mapping options: Yes/No Marked “Yes” if the treaty expressly states that the MFN 
+provision does not apply to ISDS provisions found in other 
+treaties (i.e. covered investors cannot invoke the MFN 
+clause to access more “investor -friendly” provisions in IIAs 
+concluded by the host State with third countries).  
+ 
+Fair and equitable treatment (FET)   
+ 
+Type of FET clause  
+Mapping options:   
+ FET unqualified  Marked “FET unqualified” if the FET clause contains no 
+express reference to international law and no list of the 
+elements of the FET obligation (for the explanation of 
+these two qualifiers   see FET qualified).  
+ FET qualified  Marked “FET qualified” if the FET clause  is qualified either 
+by reference to international law or by listing the elements of the FET obligation.  
+ None   
+ 
+FET qualified   
+By reference to international 
+law 
+Mapping options:   
+ International law / 
+principles of international 
+law Marked “International law / principles of international law” if 
+the FET obligation refers either to (general) international law or to principles of international law. 
+ 
+ Customary international 
+law (CIL)  Marked “Customary international law (CIL)” if the FET 
+obligation refers to customary international law.   
+ CIL/minimum standard of 
+treatment  Marked “CIL/minimum standard of treatment” if the FET 
+obligation refers to the minimum standard of treatment of 
+aliens under customary international law.   
+ None  Marked “None” i f none of the above qualifiers is used.  
+ 
+By listing FET elements 
+(exhaustive or indicative list)  
+Mapping options: Yes/No  Marked “Yes” if the FET obligation includes an indicative 
+or exhaustive list of more specific elements. Examples of such elements may include: denial of justice and flagrant violations of due process; manifestly arbitrary treatment; 
+evident discrimination; manifestly abusive treatment involving continuous, unjustified coercion or harassment; 
+infringement of legitimate expectations. 
+ 
+Note:  A prohibition of “unreasonable, arbitrary,  
+Page 11 of 25 
+ discriminatory” measu res is a separate obligation and is 
+not marked under this section.  
+ 
+FET modifiers  
+Mapping options:   
+ FET combined with NT or 
+MFN  Marked “FET combined with NT or MFN” if the FET 
+obligation is linked – in whatever form –  to non-
+discrimination provisions (N T, MFN or both).  
+ None   
+ 
+Full protection and 
+security 
+Mapping options:   
+ Standard  Marked “Stan dard” if the treaty contains an  unqualified 
+obligation to provide full protection and security (various 
+formulations may be used including “most constant 
+protection”, “legal protection and security”, etc.).  
+ With reference to 
+domestic law  Marked “With reference to domestic law” if th e obligation is 
+qualified by reference to domestic law of the host State, 
+using formulations such as “subject to the laws and 
+regulations”, “under the laws”, etc.  
+ No clause  Marked “No clause” if the treaty does not include an 
+obligation to accord f ull protection and security to 
+investors/investments.  
+  
+Prohibition on 
+unreasonable, arbitrary or 
+discriminatory measures 
+Mapping options:  Yes/No  Marked “Yes” if the treaty contains a separate obligation 
+that prohibits impairment of investments by unreasonable and/or arbitrary and/or discriminatory measures. 
+ 
+   
+Page 12 of 25 
+ Expropriation 
+ 
+Scope of measures 
+covered 
+Mapping options:   
+ Indirect expropriation not 
+mentioned  Marked “Indirect expropriation not mentioned” if the 
+treaty’s expropriation clause does not contain an explicit reference to indirect expropriation.  
+ Indirect expropriation 
+mentioned  Marked “Indirect expropriation mentioned” if the treaty’s 
+expropriation clause includes a reference to indirect expropriation, whatever the formulation used (“ measures 
+having effect equivalent to nationalization or expropriation”, measures tantamount to expropriation, de 
+facto  expropriation ).  
+ No expropriation clause  Marked “No expropriation clause” if the treaty does not 
+include a provision that protects foreign investors against ncompensated dispossession of their investments.  
+ 
+Refining expropriation 
+clause 
+  
+Indirect expropriation 
+defined  
+Mapping options: Yes/No Marked “Yes” if the treaty (whether in the main text or in 
+the annex) contains a definition of, or criteria for determining whether an indirect expropriation has 
+occurred.  
+Carve -out for general 
+regulatory measures  
+Mapping options: Yes/No Marked “Yes” if the treaty (whether in the main text or in 
+the annex) carves out from the notion of expropriation 
+regulatory measures of general application undertaken to 
+protect legitimate public welfare objectives ( e.g. public 
+health, safety, and the environment). Such a clause is 
+marked “Yes” regardless of whether it is conditioned upon certain circumstances (e.g. good faith, proportionality) and whether it is formulated in a manner that allows for exceptions (e.g. contains the “except in rare 
+circumstances” language). 
+ 
+Note:  Common wording of an expropriation clause which 
+refers to “public purpose” as a condition of lawfulness of 
+the expropriation is not marked in this section.   
+Carve -out for compulsory 
+licenses in conformity with 
+WTO  
+Mapping options: Yes/No Marked “Yes” if the treaty carves out from the 
+expropriation-related obligations compulsory licenses granted in relation to intellectual property rights, and/or the revocation, limitation or creation of intellectual property rights to the extent consistent with WTO law.  
+    
+Page 13 of 25 
+ Protection from strife  
+ 
+Specifications   
+Relative right to 
+compensation (comparator)  
+Mapping options:   
+ MFN only  Marked “MFN only” if the protection from strife clause 
+entitles covered investors to the same treatment, as 
+regards restitution, compensation or other settlement, as 
+granted to investors from any third State.   
+ NT only  Marked “NT only” if the clause entitles covered investors to 
+the same treatment, as regards restitution, compensation or other settlement, as granted to domestic investors of 
+the host State.   
+ MFN and NT  Marked “MFN and NT” if the clause offers MFN treatment 
+and national treatment, whichever is more favourable to 
+the covered investor.  
+ 
+Note: If the treaty refers to “nondiscriminatory treatment” 
+or “full nondiscriminatory treatment”, without specifying the 
+comparator, this is marked as “MFN and NT”.   
+ None  Marked “None” if the treaty does not contain a relative 
+right to compensation.   
+Absolute right to 
+compensation in certain circumstances  
+Mapping options: Yes/No Mapped “Yes” if the clause provides for an absolute right 
+to compensation in certain circumstances, regardless of the treatment accorded to domestic investors and investors from third countries. Typically such circumstances cover situations where the losses were caused by the forces or authorities of the host State.  
+ 
+Transfer of funds 
+ 
+Includes transfer of funds  
+Mapping options: Yes/No Marked “Yes” if the treaty includes a provision regarding 
+the free transfer of funds relating to investments (covering 
+outward and/or inward transfers).  
+ 
+Exceptions to the transfer 
+of funds obligation 
+  
+Balance -of-payments 
+exception  
+Mapping options: Yes/No Mapped “Yes” if the treaty contains an exception that 
+allows the Parties to derogate from the free transfer 
+obligation if confronted with (serious) balance of payments 
+difficulties or a threat thereof. Also marked “Yes” if the exception refers to “exceptional financial or economic circumstances”, “serious difficulties for macroeconomic management, in particular, monetary and exchange rate 
+policies” or similar circumstances.    
+Page 14 of 25 
+ Other specific exceptions 
+(e.g. to protect creditors, 
+etc.) 
+Mapping options: Yes/No Marked “Yes” if the treaty contains an exception that 
+allows the Parties to derogate from the free transfer obligation in other circumstances (beyond the balance of 
+payments and similar difficulties) and sets out a list of such circumstances. This  may include, in particular, 
+enforcement of domestic laws relating to: 
+• bankruptcy, insolvency, or the protection of the rights of creditors;  
+• issuing or trading in securities and other stock market instruments; 
+• criminal offences;  
+• compliance with orders or judgments in judicial or administrative proceedings; 
+• compliance with labour or tax obligations;  
+• and other. 
+ 
+Notes:  
+1) If the free transfer clause conditions the transfer of 
+funds on investor’s compliance with fiscal or tax 
+obligations to the host State, this alone is not 
+marked “Yes” under this section.  
+2) If the free transfer clause contains solely an 
+exception for measures adopted by the economic/monetary union of which the contracting party is  a member (frequent in IIAs concluded by 
+European Union and its Member States), this alone is not marked “Yes” under this section. 
+3) Prudential carve-outs are not marked in this 
+section.  
+ 
+Prohibition of performance requirements (PRs)  
+ 
+Includes prohibition of 
+PRs 
+Mapping options:   
+ Explicit PR clause  Marked “Explicit PR clause” if the treaty includes a 
+provision that restricts the use of performance 
+requirements.   
+ No explicit PR clause  Marked “No explicit PR clause” if the treaty does not 
+include a provision that restricts the use of performance 
+requirements. (Even in the absence of such an explicit 
+provision, certain performance requirements can be 
+prohibited by other international legal instruments, such as the WTO Agreement on Trade-Related Investment 
+Measures .) 
+ 
+Type of PR clause  
+Mapping options:   
+ TRIMS reference  Marked “TRIMS reference” if the treaty’s PR clause 
+incorporates provisions of the WTO Agreement on Trade-Related Investment Measures (TRIMS) or otherwise refers 
+to or reiterates the Parties ’ obligations under that 
+Agreement.    
+Page 15 of 25 
+  List of prohibited PRs  Marked “List of prohibited PRs” if the treaty’s PR clause 
+sets out a list of specific prohibited performance 
+requirements, typically going beyond those that are 
+prohibited under the TRIMS Agreement.  
+Note : If the list of prohibited PRs set out in the treaty’s PR clause is identical to the one 
+found in the TRIMS Agreement, this is still marked as “ List of prohibited PRs”,  unless a 
+reference is made speci fically to the TRIMS Agreement.  
+ 
+Umbrella clause  
+Mapping options: Yes/No Marked “Yes” if the treaty includes the so -called “umbrella” 
+clause requiring the Parties to respect or observe any 
+obligation assumed by it with regard to a specific investment, thereby bringing contractual and other 
+obligations under the “umbrella” of the IIA.  
+ 
+Entry and sojourn of 
+personnel (subject to local laws) Mapping options: Yes/No Marked “Yes” if the tre aty contains a provision for the 
+facilitation of entry, sojourn and issuing of visas and work permits for nationals of one Party (or individuals regardless of nationality) in the territory of the other Party for purposes relating to a covered investment, subject to national immigration and other laws of the host State. 
+Such a provision may apply to all personnel, including 
+families, or only senior management and key personnel.  
+ 
+Senior management 
+(nationality) Mapping options: Yes/No Marked “Yes” if the treaty contains a provision that entitles 
+covered investors to make appointments to senior management positions and/or and members of the board 
+of directors without regard to nationality.  
+ 
+Other Clauses 
+ Transparency  
+Directed at States 
+(obligation to publish laws and regulations) 
+Mapping options: Yes/No Marked “Yes” if the treaty requires the contracting part ies 
+to publish, make otherwise available and/or notify laws, 
+regulations and/or other measures that affect covered 
+investments and/or the operation of the treaty.   
+Note:  This category should not be confused with transparency in ISDS, which is mapped 
+separately.  
+ 
+Directed at investors  
+Mapping options: Yes/No Marked “Yes” if the treaty authorizes the host States to 
+collect information from covered investors or potential 
+investors, e.g. information about their  corporate 
+governance history and practices  (including in its home 
+state), or any other information (including for informational 
+or statistical purposes ).  
+  
+Page 16 of 25 
+ Health and environment 
+(any mentioning in the 
+text, except preamble)  
+Mapping options: Yes/No Marked “Yes” if the treaty uses the terms “health” or 
+“environment” and/or related terms “ecological ”, “animal ” 
+or “plant” in any of its provisions (except the preamble), 
+including general exceptions, reaffirmations of the right to 
+regulate for health and/or environmental purposes, non-
+binding clauses and any others.  
+ 
+Labour  standards (any 
+mentioning in the text, except preamble)
+ 
+Mapping options: Yes/No Marked “Yes” if the treaty uses the term “labour standards ” 
+in any of its provisions (except the preamble), including the non-lowering-standards clauses, reaffirmations of the right 
+to regulate to maintain labour standards and any others. 
+ 
+ 
+Right to regulate (any 
+mentioning in the text of 
+this or similar concepts, 
+except preamble)  
+Mapping options:  Yes/No  Marked “Yes” if the treaty uses the term “right to regulate ” 
+(or similar concepts, e.g. the right to introduce new 
+regulations to meet legitimate policy objectives) in any of 
+its provisions (except the preamble).  
+ 
+Corporate social 
+responsibility (any ment ioning in the text, 
+except preamble)
+ 
+Mapping options: Yes/No Marked “Yes” if the treaty uses the term “corporate social 
+responsibility ” in any of its provisions (except the 
+preamble), as well as other similar terms such as  “relevant 
+guidelines”, “internationally accepted standards applicable 
+to foreign investors”, principles of corporate stewardship, 
+etc. 
+ 
+Corruption (any 
+mentioning in t he text, 
+except preamble)  
+Mapping options:  Yes/No  Marked “Yes” if the treaty uses the term “corruption ” (or 
+“anti-corruption”) in any of its provisions (except the 
+preamble).  
+ 
+Not lowering of standards 
+(typically environment 
+and/or labour standards)  
+Mapping options: Yes/No Marked “Yes” if the treaty contains a provision prohibiting 
+or discouraging the contracting parties from attracting investment through the relaxation of labour, 
+environmental, health, safety or other domestic standards. 
+ 
+ 
+Subrogation clause  
+Mapping options: Yes/No  Marked “Yes” if the treaty provides for a mechanism of 
+subrogation, which means that if an insurer covers the 
+losses suffered by an investor in the host State, it acquires 
+the investor’s right to bring a claim and may exercise it to 
+the same extent as, previously, the investor.  
+ 
+Non-derogation clause (in 
+case of IIA’s conflict with other norms, more 
+favourable rules apply to 
+investors)
+ 
+Mapping options: Yes/No Marked “Yes” if the treaty contains a guarantee that if 
+another international treaty, to which the C ontracting 
+States are parties, or national legislation of the host State, 
+provides for more favourable treatment of 
+investors/investments, that other treaty (or national 
+legislation) shall prevail in the relevant part over the 
+provisions of the IIA.  
+ 
+   
+Page 17 of 25 
+ Inves tment promotion 
+ 
+Reference to specific 
+promotion activities in text 
+of agreement (not 
+preamble)  
+Mapping options: Yes/No  Marked “Yes” if the treaty sets out specific investment 
+promotion activities aimed at enhancing investment flows 
+between the contracting parties, e.g. one or more of the 
+following:  
+• Organization of joint investment promotion activities such as exhibitions, conferences, 
+seminars and outreach programmes;  
+• Exchange of information on investment 
+opportunities; 
+• Consultations with a view to promote investment opportunities; 
+• Cooperation with a view to promote investment opportunities; 
+• Technical assistance programmes to facilitate investment f lows;  
+• Encouragement for home countries to provide 
+outward investment incentives;  
+• Institutional framework with a view to promote 
+investment opportunities.  
+Exceptions 
+ Essential security exception 
+ 
+Exception included  
+Mapping options: Yes/No Marked “Yes” if the treaty allows the contracting part ies to 
+derogate from  treaty obligations in order to protect their 
+security interests.   
+ 
+Exception defined 
+(exceptional 
+circumstances described 
+in more detail)  
+Mapping options: Yes/No Marked “Yes” if the treaty further details or defines the 
+concept of “security interests” (or essential/national 
+security) and thereby provides an indication of what kind of 
+measures may fall within the scope of the exception, e.g. by reference to “in time of war or armed conflict”, 
+“emergency in international relations”, “relating to the 
+traffic in arms” , etc. 
+ 
+Exception self -judging  
+Mapping options: Yes/No Marked “Yes” if the essential security exception is 
+formulated as self-judging, i.e. allows the invoking State to 
+take measures that “it” considers necessary for the 
+protection of relevant interests.  
+ 
+   
+Page 18 of 25 
+ General public policy exceptions 
+ 
+Public health and 
+environment Mapping options: Yes/No
+ Marked “Yes” if the treaty allows the contracting part ies to 
+derogate from  WTO Agreement on Trade-Related 
+Investment Measures  treaty obligations in order to protect 
+public health and/or environment (other terms may be used, such as “human, animal or plan life or health”, “conservation of living or non-living exhaustible natural 
+resources ”, “prevention of diseases or pests ”, etc.)  
+ 
+Note: Treaties that incorporate – directly or by reference – 
+the WTO GATT Article XX or WTO GATS Article XIV ar e 
+marked “Yes” in this section.  
+ 
+Other public policy 
+exceptions (e.g. cultural 
+heritage, public order, etc.)  
+Mapping options: Yes/No  Marked “Yes” if the treaty allows the contracting part ies to 
+derogate from its treaty obligations in order to achieve other non-economic policy objectives named in the treaty (e.g. to maintain public order, preserve cultural heritage, 
+maintain cultural/linguistic diversity, protect public morals, ensure compliance with laws and regulations that are not inconsistent with the treaty, etc .). 
+ 
+Note: Treaties that incorporate – directly or by reference – 
+the WTO GATT Article XX or WTO GATS Article XIV are 
+marked “Yes” in this section.  
+ 
+Prudential carve -out 
+(concerns financial measures)
+ 
+Mapping options: Yes/No Marked “Yes” if the treaty allows the contracting part ies to 
+derogate from its treaty  obligations for prudential reasons. 
+Prudential measures may be taken for, e.g.:  
+• the protection of investors, depositors, and financial market participants;  
+• the maintenance of the safety, soundness, integrity or financial responsibility of financial institutions; 
+and/or  
+• ensuring the integrity and stability of a contracting 
+party’s financial system.   
+ 
+Scheduling and 
+reservations (in treaty 
+texts and annexes)  
+Mapping options:  In contrast to exceptions that apply to both/all contracting 
+parties, reservations are unilateral carve-outs from treaty obligations. Reservations can be set out in the treaty’s 
+main text or in annexes.   
+ Positive -list commitments  Marked “Positive -list commitments” if a given treaty 
+obligation or obligations apply only to those sectors/ industries that are specifically inscribed in a Party’s schedule (positive list), and the treaty does not employ 
+negative-list reservations under any of its provisions. 
+ Negative -list reservations  Marked “Negative -list reservations” if a given treaty 
+obligation or obligations appl y to all sectors/industries and 
+measures, except for those that are explicitly excluded (negative list), and the treaty does not employ the positing-
+list approach under any of its provisions .
+  
+Page 19 of 25 
+  Both positive list 
+commitments and negative 
+list reservations  Marked “Both pos itive list commitments and negative list 
+reservations” if the treaty combines the two approaches, e.g. by employing positive listing for some treaty 
+obligations and negative listing for others.
+ 
+ None  Marked “None” if the treaty does not include positive - or 
+negative-list reservations.  
+ 
+State-State Dispute Settlement (SSDS ) 
+ 
+SSDS included  
+Mapping options: Yes/No  Marked “Yes” if the treaty provides for dispute settlement 
+(e.g. arbitration) between the contracting parties, regardless of the content of this provision.  
+ 
+Investor -State Dispute Settlement ( ISDS ) 
+ 
+ISDS included  
+Mapping options: Yes/No Marked “Yes” if the treaty establishes a mechanism for the 
+settlement of disputes between covered investors and the host State (arbitration and/or domestic courts of the host 
+State).  
+ 
+Alternatives to arbitration  
+Mapping options:   
+ Voluntary ADR 
+(conciliation / mediation)  Marked “Voluntary ADR (conciliation / mediation)” if the 
+treaty mentions the possibility of such procedures (e.g. 
+“non-binding, third-party procedures”) but does not 
+prescribe them as a necessary step.   
+ Compulsory ADR 
+(conciliation / mediation)  Marked “Compulsory ADR (conciliation / mediation)” if the 
+treaty prescribes the use of conciliation or mediation (can 
+be referred to as “non-binding third-party procedures”, or 
+ADR methods) as a mandatory procedure, i.e. that must be resorted to before adjudicatory proceedings 
+(arbitration) can be commenced.   
+ None  Marked “None” if the treaty does not refer to alternative 
+means of settling investor -State disputes (conciliation / 
+mediation or similar non- binding procedures).  
+Note : A compulsory period for consultations, negotiations or reaching an amicable 
+settlement between the disputing parties, or a mandatory “cooling-off” period, are not considered to be ADR mechanisms  in this section. If the treaty provides only for such 
+procedures, it is marked “None”.  
+    
+Page 20 of 25 
+ Scope and consent  
+ 
+Scope of claims: general 
+approach (chapeau 
+paragraph of ISDS clause)  
+Mapping options:   
+ Covers any dispute 
+relating to investment  Marked “Covers any dispute relating to investment” if the 
+treaty allows to submit to ISDS  “any dispute arising from / 
+connected to / relating to / concerning an investment” or uses similar broad formulations.  
+ 
+ Lists specific bases of 
+claim beyond treaty  (e.g. 
+contractual disputes)  Marked “Lists specific bases of claim beyond treaty (e.g. 
+contractual disputes)” if the treaty allows to submit to ISDS  
+certain identified types of claim, which go beyond the alleged breaches of the treaty itself but are not as broad 
+as “any dispute”. For example, a treaty may claims arising out of the alleged breach of: (i) treaty obligations, (ii) an 
+investment authorization, or (iii) an investment contract.  
+ 
+ Covers treaty claims only  Marked “Covers treaty claims only” if the treaty allows to 
+submit to ISDS  only claims alleging a breach of the treaty 
+by the respondent State. Treaties that refer to disputes 
+“concerning interpretation and application of this 
+agreement” also fall into this category.  
+ Other  Marked “Other” if the treaty’s ISDS clause doesn’t fall into 
+any of the above categories.  
+ 
+Limitations to the scope of 
+ISDS  
+  
+Limitation of provisions 
+subject to ISDS  
+Mapping options: Yes/No Marked “Yes” if the treaty provides that not all of its 
+provisions are subject to ISDS. A treaty can do that either 
+(i) by positively identifying those provisions, whose alleged 
+violations can be submitted to ISDS (leaving some 
+substantive provisions out), or (ii) by expressly excluding 
+certain provisions from the scope of ISDS.   
+Exclusion of policy areas 
+from ISDS  
+Mapping options: Yes/No Marked “Yes” if the treaty excludes a particular policy 
+area(s) or certain economic industries/sectors from the ISDS scope. Excluded policy areas and sectors may 
+include, for example, host State’s decisions concerning 
+admi ssion of foreign investments, claims relating 
+investments in real estate, financial institutions, etc.  
+ 
+Special mechanism for 
+taxation or prudential measures  
+Mapping options: Yes/No Marked “Yes” if the treaty requires the disputing parties, or 
+the tribunal, to refer certain matters (e.g. those concerning taxation, prudential measures, scheduled reservations) for 
+joint determination by the contracting parties or their joint 
+commission.  
+ 
+   
+Page 21 of 25 
+ Type of consent to 
+arbitration  
+Mapping options:   
+ Provides express or 
+implied consent  Marked “Provides express or implied consent” if the 
+contracting parties give their prior consent to ISDS 
+(arbitration)  for investors’ claims arising under the treaty. 
+Such consent can be (i) express (e.g. “Each Party hereby gives its unconditional consent…”, or (ii) implied (i.e. the 
+text of the treaty is silent on the matter of consent but 
+suggests that an investor does not need to obtain a separate consent to arbitration from the respondent State 
+in order to initiate ISDS proceedings against it).   
+ Requires case -by-case 
+consent  Marked “Requires case -by-case consent” if the contracting 
+parties do not provide their prior consent to ISDS 
+(arbitration)  for investors’ claims arising under the treaty . A 
+treaty may contain, for example, an explicit reservation of consent, or provide that the Parties shall give their consent 
+in the future.  
+ 
+Forums  
+ISDS forum options  
+  
+Domestic courts of the host 
+State Mapping options: Yes/No Marked “Yes” if the treaty explicitly provides an option to 
+submit an investment dispute to the domestic courts of the host State, whether as an option alongside other ISDS forums, or as a mandatory step before submission of a claim to arbitration.  
+ 
+Note: If the treaty refers to only domestic administrative 
+review procedures, this is marked “No” in this section.   
+ICSID  
+Mapping options: Yes/No Marked “Yes” if the treaty provides an option to submit an 
+investment dispute to arbitration under the ICSID 
+Convention.  
+ 
+Note: If the treaty refers only to arbitration under the ICSID 
+Additional Facility R ules, or to conciliation under the ICSID 
+Convention, this is marked “No” in this section.   
+UNCITRAL  
+Mapping options: Yes/No Marked “Yes” if the treaty provides an option to submit an 
+investment dispute to arbitration under the UNCITRAL Arbitration Rules.  
+ 
+Other forums  
+Mapping options: Yes/No Marked “Yes” if the treaty provides an option to submit an 
+investment dispute to arbitration under any other arbitral rules: e.g. Stockholm Chamber of Commerce (SCC), 
+International Chamber of Commerce (ICC), Arab 
+Investment Court, Cairo Regional Centre for  International 
+Commercial Arbitration, ICSID Additional Facility (if the 
+treaty does not allow arbitration under the ICSID 
+Convention) or other venue or arbitration rules.  
+ 
+Relationship between 
+forums 
+Mapping options:    
+Page 22 of 25 
+  No reference  Marked “No reference” if the treaty, which lists more than 
+one ISDS forum, does not contain rules on the relationship 
+between various ISDS forums, i.e. on whether the same 
+dispute can be submitted to several forums, either simultaneously or subsequently.  
+ 
+ “Fork in the road”  Marked “Fork in the road” if the treaty contains a “fork -in-
+the-road” clause, i.e. a provision which requires the 
+investor to choose between the domestic courts and 
+international arbitration at the outset. Once an investor 
+starts the do mestic proceedings, it loses the right to resort 
+to arbitration, and vice versa. This category captures any “finality of choice” provision including the selection 
+between two arbitral forums.   
+ “No U turn” (waiver 
+clause)   Marked “No U turn (waiver claus e)” if the treaty contains a 
+“no-U-turn” clause, which provides that once the investor 
+has opted for international arbitration, it cannot shift back 
+to domestic courts. It often requires a “waiver” from 
+domestic litigation as a condition of submitting the dispute 
+to arbitration.   
+ Preserving right to 
+arbitration after domestic 
+court proceedings  Marked “Preserving right to arbitration after domestic court 
+proceedings” if the treaty explicitly preserves the right of investors to submit a dispute to arbitration after they have 
+initiated local court proceedings, but before these courts 
+have rendered a judgment. 
+ 
+ Local remedies first  Marked “Local remedies first” if a treaty obliges an investor 
+to go through (but not necessarily exhaust) local remedy 
+procedures in the host State, be they of administrative or 
+judicial kind, before submitting a claim to arbitration. 
+ Other specific ISDS features 
+ 
+Limitation period for 
+submission of claims Mapping options: Yes/No Marked “Yes” if the treaty prohibits submission to ISDS of 
+the claims that are outside of the limitation period (often 3 or 5 years from the date on which the claimant first 
+acquired, or should have first acquired, knowledge of the 
+treaty breach and damage).  
+ 
+Provisional measures  
+Mapping options: Yes/No Marked “Yes” if the treaty provides that arbitral tribunals 
+may order provisional or i nterim measures in the interest 
+of the investor or of the proceedings, for example to 
+preserve the rights of the disputing investor or to preserve 
+evidence in the possession or control of either of the 
+disputing parties.    
+Consolidation of claims  
+Mapping options: Yes/No Marked “Yes” if the treaty contains a provision regarding 
+consolidation of claims arising out of the same events or 
+circumstances.  
+Limited remedies 
+(specifying available types of remedies)  
+Mapping options: Yes/No Marked “Yes” if the treaty specifies the types of remedy 
+that a tribunal may award, for example payment of monetary damages and restitution of property (with the 
+right to pay monetary damages in lieu of restitution). 
+ 
+Treaty interpretation    
+Page 23 of 25 
+  
+Affirms binding interpretation 
+by contracting parties or 
+their joint committee  
+Mapping options:  Yes/No   Marked “Yes” if the treaty stipulates that the contracting 
+parties, or their joint body, may issue joint interpretations binding on the arbitral tribunal.  
+Requires certain questions 
+to be submitted to contracting parties (renvoi)  
+Mapping options: Yes/No Marked “Yes” if the treaty provides for the referral ( renvoi ) 
+of certain questions (explicitly defined in the treaty) to the contracting parties or their joint body for interpretation, 
+which shall be binding on the tribunal. Relevant clauses 
+often provide that failing agreement between the Parties, the tribunal regains the ability to interpret the r elevant 
+provisions.  
+ 
+Note: Special mechanism s on taxation or prudential 
+measures that sometimes include a referral of questions to the disputing parties (or their joint bodies) are not marked 
+in this section .  
+Regulates submissions by 
+non-disputing State party  
+Mapping options: Yes/No Marked “Yes” if the treaty entitles a contracting part y that 
+is not the respondent State in an ongoing ISDS proceeding to make submissions to the tribunal on 
+questions of treaty interpretation.  
+ 
+Transparency in arbitral 
+proceedings 
+  
+Requires documents to be 
+made publicly available  
+Mapping options: Yes/No Marked “Yes” if the treaty requires that certain ISDS -
+related documents are made available to the public. Such documents are often listed in the treaty and may include, among others, the notice of arbitration; pleadings and 
+memorials submitted to the tribunal by disputing parties; 
+and orders, awards, and decisions of the tribunal.  
+ 
+Requires hearings to be 
+open to the public  
+Mapping options: Yes/No Marked “Yes” if the treaty requires ISDS hearings to be 
+open to the public (usually subject to the protection of sensitive information). 
+ 
+Regulates amicus curiae 
+submissions by third (non-
+disputing) parties  
+Mapping options: Yes/No Marked “Yes” if the treaty lays down rules regarding 
+submissions from third parties not involved in the dispute (amicus curiae), including the right of the tribunal to accept 
+and consider such submissions.  
+ 
+Institutional Issues 
+ 
+Mechanism for 
+consultations between State parties
+ 
+Mapping options: Yes/No Marked “Yes” if the treaty provides that the Parties may, or 
+shall, hold ad hoc consultations on matters arising out of the treaty.  
+ 
+Notes : 
+1) Institutionalized forms of consultations (e.g. through standing joint committees) are not marked in this section. 
+2) C onsultations in the context of State- State dispute 
+settlement are not marked in this section.    
+Page 24 of 25 
+ Institutional framework 
+(committee)  
+Mapping options: Yes/No Marked “Yes” if the treaty sets up an institution (a joint 
+body) as a means of regular consultations and cooperation 
+on matters related to the treaty. Also, consultation 
+provisions that establish an institutional framework are 
+marked “Yes” in this section.   
+Technical 
+cooperation/capacity building
+ 
+Mapping options: Yes/No Marked “Yes” if the treaty provides that a Party 
+may/should/shall assist another Party on matters relating to the implementation of the agreement, e.g. providing 
+support for the private sector; improving the economic environment; transfer of technology; facilitating access to 
+know -how and capital . 
+ 
+Treaty Duration, Amendment a nd Termination 
+ Treaty duration  
+Years of initial treaty term  
+Mapping options:  
+• Indefinite  
+• 5 years  
+• 10 years  
+• 15 years  
+• 20 years  
+• Other  This section records the initial treaty term, i.e. the length of 
+time during whic h an agreement shall remain in force. The 
+initial treaty term can be fixed (equal to a certain number of years) or indefinite, and is marked accordingly in this 
+section.  
+ 
+Automatic renewal  
+Mapping options:  
+• Indefinite term  
+• 2 years  
+• 5 years  
+• 10 years  
+• 15 years  
+• 20 years  
+• Other  
+• None This section records whether the treaty provides for an 
+automatic renewal of the treaty term. Automatic renewal 
+means that after the initial treaty term ends, the treaty shall 
+remain in force unless one of the contracting parties notifies the other (or others) of its intention not to renew 
+the treaty. A treaty can be renewed for an indefinite term 
+or for a fixed term, and is marked accordingly.  
+ If the treaty does not provide for automatic renewal (e.g. 
+renewal is only possible with an express consent of 
+both/all contracting part ies), this is marked “None”.  
+ Amendment and termination 
+ 
+Unilateral termination   
+Includes modalities for 
+unilateral termination 
+Mapping options: Yes/No  Marked “Yes” if the treaty expressly provides that it can be 
+unilaterally terminated by a contracting party, and sets out the procedure for such unilateral termination.  
+ 
+Length of notice period  
+Mapping options:  
+• One year prior notice  
+• Six months prior 
+notice  
+• Other period 
+• None  This section records the length of the notice period 
+necessary for a Contracting State to unilaterally denounce the treaty, if the treaty provides for such unilateral 
+termination. 
+ 
+  
+Page 25 of 25 
+ Includes modalities for 
+amendment or 
+renegotiation 
+Mapping options:  Yes/No  Marked “Yes” if the treaty expressly specifies that the 
+contracting parties ma y agree to amend the agreement. 
+ 
+"Survival"/"sunset" clause 
+length 
+Mapping options:  
+• None 
+• 5 years  
+• 10 years  
+• 15 years  
+• 20 years  
+• Other  A “survival”/ “sunset” clause guarantees that in case of 
+unilateral  termination of the treaty, the treaty will remain in 
+effect for a certain number of years following the 
+termination with respect to investments made prior to the 
+termination. This section rec ords such extra treaty duration 
+specified in the “survival” clause.  
+ 
+If the treaty does not include a “survival” clause, this is 
+marked “None”. 
+ 
