@@ -1,79 +1,49 @@
-# main.py (Backend - Streamlit and Gemini API)
 import streamlit as st
-import google.generativeai as genai
-from google.genai import types
-import tempfile
-import os
-from PyPDF2 import PdfReader
 
-# Configure Gemini API
-GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
-genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel('gemini-2.0-flash')
+st.set_page_config(
+    page_title="BIT Analyzer",
+    page_icon="🏛️",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-def extract_text_from_pdf(pdf_file):
-    """Extracts text from a PDF file."""
-    try:
-        pdf_reader = PdfReader(pdf_file)
-        text = ""
-        for page_num in range(len(pdf_reader.pages)):
-            page = pdf_reader.pages[page_num]
-            text += page.extract_text()
-        return text
-    except Exception as e:
-        return f"Error extracting text: {e}"
+st.title("AI BIT Analyzer")
 
-def analyze_contract(contract_text, analysis_prompt, instructions):
-    """Analyzes the contract text using Gemini API."""
-    try:
-        prompt = f"""
-        {analysis_prompt}
+st.sidebar.success("Select a demo above.")
 
-        Analyze the following Bilateral Investment Treaty (BIT) based on these instructions.{instructions}.
-        BIT:
-        {contract_text}
+st.markdown("""
+**Solution Description:**
 
-        Analysis Outcome:
-        """
-        response = model.generate_content(prompt)
-        return response.text
-    except Exception as e:
-        return f"Error during analysis: {e}"
+Our solution leverages the power of Generative AI to revolutionize the way Bilateral Investment Treaties (BITs) are analyzed, interpreted, and managed. By combining advanced natural language processing, machine learning, and deep legal domain expertise, the platform offers a comprehensive suite of tools that streamline complex legal analysis, mitigate risks, and uncover strategic opportunities within BIT frameworks.
 
-def main():
-    with open('style.css') as f:
-        css = f.read()
+**Key Features:**
 
-    with open('mapping.txt') as f:
-        instructions = f.read()
-    st.set_page_config(page_title = "AI BIT Analyzer")
-    st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
-    st.title("BIT Analyzer - Using UNCTAD IIA Mapping project")
-    st.write("""
-             This solution uses *Gen AI* (Google Gemini) to analyze Bilateral Investment Treaties (BIT) using the methodology provide by IIA Mapping project. 
-    
-             It takes seconds to analyze a document in any language and get the outcome.
-    """)
+* **Intelligent Document Processing:** Ingests and processes large volumes of BIT documents, extracting key provisions, definitions, and obligations with unparalleled speed and accuracy.
+* **AI-Powered Legal Analysis:** Employs Generative AI to analyze BIT provisions, identify potential risks and obligations, and provide insightful interpretations of complex legal language.
+* **Comparative Treaty Analysis:** Enables users to quickly compare and contrast provisions across multiple BITs, highlighting similarities, differences, and potential conflicts.
+* **Risk Assessment and Management:** Assesses potential risks associated with BITs, such as expropriation, fair and equitable treatment violations, and dispute resolution clauses, empowering proactive risk management strategies.
+* **Customizable Reporting and Visualization:** Generates tailored reports and visualizations that summarize key findings, facilitate informed decision-making, and enhance stakeholder communication.
 
-    uploaded_file = st.file_uploader("Upload a BIT PDF", type=["pdf"])
-    analysis_prompt = st.text_area("Enter your analysis instructions:", "Using the IIA Mapping methodology, analyze the document.")
+**Use Cases for Executives:**
 
-    if uploaded_file is not None:
-        with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
-            temp_file.write(uploaded_file.getvalue())
-            temp_file_path = temp_file.name
+Here are some compelling use cases to present this solution to executives:
 
-        contract_text = extract_text_from_pdf(temp_file_path)
-        os.unlink(temp_file_path)
+* **Strategic Investment Decisions:**
+    * "Enhance your investment strategy by gaining deep insights into BIT protections and obligations, enabling more informed decisions on market entry and expansion."
+    * "Identify countries with favorable BIT provisions for your industry, minimizing risks and maximizing returns on international investments."
+* **Risk Mitigation and Compliance:**
+    * "Proactively manage and mitigate potential risks associated with BITs, such as expropriation or discriminatory treatment, ensuring compliance and protecting your assets."
+    * "Stay ahead of regulatory changes and treaty updates with AI-powered alerts, minimizing the risk of non-compliance and potential disputes."
+* **Dispute Resolution and Litigation:**
+    * "Strengthen your position in investment disputes by leveraging AI-driven analysis of BIT provisions and case law, supporting effective dispute resolution strategies."
+    * "Reduce the time and cost associated with legal research and analysis, enabling your legal team to focus on high-value strategic activities."
+* **Portfolio Optimization:**
+    * "Optimize your investment portfolio by identifying BITs that offer the strongest protections and benefits, maximizing returns and minimizing risks across your global assets."
+    * "Gain a competitive edge by leveraging AI-powered insights to identify underutilized BIT opportunities and enhance the overall performance of your investment portfolio."
+* **Efficiency and Cost Reduction:**
+    * "Streamline legal processes and reduce the time and cost associated with BIT analysis, freeing up valuable resources for other strategic initiatives."
+    * "Empower your legal team with AI-driven tools that automate routine tasks, improve accuracy, and accelerate decision-making."
 
-        if "Error" not in contract_text:
-            if st.button("Analyze BIT using IIA Mapping"):
-                with st.spinner("Analyzing...", show_time=True):
-                    analysis_result = analyze_contract(contract_text, analysis_prompt, instructions)
-                    st.subheader("Analysis Result:")
-                    st.write(analysis_result)
-        else:
-            st.error(contract_text)
-
-if __name__ == "__main__":
-    main()
+By presenting these use cases, you can effectively demonstrate the value proposition of the Generative AI-powered BIT analysis solution to executives, highlighting its potential to drive strategic advantage, mitigate risks, and improve overall efficiency.
+"""
+)
