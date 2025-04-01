@@ -52,7 +52,7 @@ def main():
     uploaded_file1 = st.file_uploader("Upload the first BIT document (PDF)", type=["pdf"], key="file1")
     uploaded_file2 = st.file_uploader("Upload the second BIT document (PDF)", type=["pdf"], key="file2")
 
-    analysis_prompt = st.text_area("Enter your adhoc instructions:", "Compare two BIT documents to find the differences.")
+    analysis_prompt = st.text_area("Enter your ad hoc instructions:", "Compare two BIT documents to find the differences.")
 
 
     if uploaded_file1 is not None and uploaded_file2 is not None:
