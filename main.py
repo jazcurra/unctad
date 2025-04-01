@@ -9,7 +9,26 @@ st.set_page_config(
 
 st.title("AI BIT Analyzer")
 
-st.sidebar.success("Select a demo above.")
+with st.sidebar:
+    st.header("Select a demo")
+    st.write("Choose a demo to explore the capabilities of the AI BIT Analyzer.")
+    demo = st.selectbox("Select a demo", ["BIT Analyzer", "BIT Comparator", "BIT Q&A", "Law Generator"])
+    if demo == "BIT Analyzer":
+        st.write("Analyze BIT documents using UNCTAD IIA Mapping project.")
+        st.markdown("[Go to Demo](./1_%F0%9F%94%8E_BIT_Analyzer.py)")
+    elif demo == "BIT Comparator":
+        st.write("Compare two BIT documents to find the differences.")
+        st.markdown("[Go to Demo](./2_%F0%9F%93%9A_BIT_Comparator.py)")
+    elif demo == "BIT Q&A":
+        st.write("Ask questions about the uploaded BIT document.")
+        st.markdown("[Go to Demo](./3_%3F_BIT_Interactive_QA.py)")
+    elif demo == "Law Generator":
+        st.write("Generate a draft project of law to implement a BIT.")
+        st.markdown("[Go to Demo](./4_%E2%9A%96%EF%B8%8F_Law_Generator.py)")
+    else:
+        st.write("Please select a demo to explore.")
+        temp_file_path = temp_file.name
+#st.sidebar.success("Select a demo above.")
 
 st.markdown("""
 **Solution Description:**

@@ -65,7 +65,7 @@ def main():
                 return
 
             if st.button("Generate Implementing Law"):
-                with st.spinner("Generating the project of law..."):
+                with st.spinner("Generating the project of law...", show_time=True):
                     implementing_law_draft = generate_implementing_law(bit_text)
                     st.subheader("Draft Project of Law:")
                     st.code(implementing_law_draft, language="python")  # Display as code for better formatting

@@ -23,7 +23,7 @@ def extract_text_from_pdf(pdf_file):
     except Exception as e:
         return f"Error extracting text: {e}"
 
-def compare_documents(doc1_text, doc2_text):
+def compare_documents(analysis_prompt, doc1_text, doc2_text):
     """Compares two documents using Gemini API and returns the differences."""
     try:
         prompt = f"""
@@ -34,6 +34,9 @@ def compare_documents(doc1_text, doc2_text):
 
         Document 2:
         {doc2_text}
+
+        Particular instructions:
+        {analysis_prompt}
 
         Differences:
         """
@@ -48,6 +51,9 @@ def main():
 
     uploaded_file1 = st.file_uploader("Upload the first BIT document (PDF)", type=["pdf"], key="file1")
     uploaded_file2 = st.file_uploader("Upload the second BIT document (PDF)", type=["pdf"], key="file2")
+
+    analysis_prompt = st.text_area("Enter your adhoc instructions:", "Compare two BIT documents to find the differences.")
+
 
     if uploaded_file1 is not None and uploaded_file2 is not None:
         with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file1, \
@@ -65,8 +71,8 @@ def main():
 
         if "Error" not in doc1_text and "Error" not in doc2_text:
             if st.button("Compare Documents"):
-                with st.spinner("Comparing documents..."):
-                    comparison_result = compare_documents(doc1_text, doc2_text)
+                with st.spinner("Comparing documents...", show_time=True):
+                    comparison_result = compare_documents(analysis_prompt,doc1_text, doc2_text)
                     st.subheader("Comparison Result:")
                     st.write(comparison_result)
         else:
