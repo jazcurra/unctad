@@ -88,3 +88,5 @@ if st.button("Analyze Document"):
             st.warning("Analysis failed or returned no results.")
     else:
         st.warning("Please upload both instructions and a document.")
+
+        
